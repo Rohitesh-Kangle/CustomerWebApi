@@ -22,7 +22,7 @@ To Execute application please follow below steps.
 4. Open the Webconfig of mvc project (CustomerDetail) and search for key "WebApiUrl" and replace the copied web api url here. 
      E.g key="WebApiUrl" value="http://localhost:55029/"
 5. Once this is done run your mvc project. 
-6. You can use this application. 
+6. Now you can use this application. 
 7. Pre-requites: visual studio, framework and sql server installed. 
 
 Note: if possible run both application with administrator rights. 
