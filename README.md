@@ -28,7 +28,7 @@ To Execute application please download both the application.
 2. Framework 4.5 is used to develop this project. 
 3. Run the web api project and copy web api url form browser. 
 4. Open the Webconfig of mvc project and search for key "WebApiUrl" and replace the copied web api url here. 
-      E.g <add key="WebApiUrl" value="http://localhost:55029/"/> 
+      E.g key="WebApiUrl" value="http://localhost:55029/"
 5. Once this is done run your mvc project. 
 6. You can use this application. 
 7. Pre-requites: visual studio, framework and sql server installed. 
