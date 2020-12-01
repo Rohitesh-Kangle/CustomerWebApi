@@ -23,13 +23,13 @@ b) All this is done in Asp.net mvc
 
 To Execute application please download both the application.
 
-Open both the project with Visual studio.
-Framework 4.5 is used to develop this project.
-Run the web api project and copy web api url form browser.
-Open the Webconfig of mvc project and search for key "WebApiUrl" and replace the copied web api url here.
- E.g <add key="WebApiUrl" value="http://localhost:55029/"/>
-Once this is done run your mvc project.
-Now you can use this application.
-Pre-requites: visual studio, framework and sql server installed.
+Open both the project with Visual studio. 
+Framework 4.5 is used to develop this project. 
+Run the web api project and copy web api url form browser. 
+Open the Webconfig of mvc project and search for key "WebApiUrl" and replace the copied web api url here. 
+ E.g <add key="WebApiUrl" value="http://localhost:55029/"/> 
+Once this is done run your mvc project. 
+Now you can use this application. 
+Pre-requites: visual studio, framework and sql server installed. 
 
-Note: if possible run both application with administrator rights.
+Note: if possible run both application with administrator rights. 
